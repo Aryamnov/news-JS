@@ -8,8 +8,6 @@
         "outDir": "./dist",
         "strict": true,
         "noImplicitAny": true,
-        "allowJs": true,
-        "checkJs": false,
         "sourceMap": true,
         "skipLibCheck": true,
         "types": []
